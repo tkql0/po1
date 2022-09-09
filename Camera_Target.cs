@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Cinemachine;
 
-// 자이제 시작이야
+// 자이제 시작이야 내꿈을
 
 public class Camera_Target : MonoBehaviour
 {
